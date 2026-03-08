@@ -2,7 +2,7 @@
 
 ## Features
 - Add and manage employees
-- Assign departments and projects
+- Add departments and projects
 - Admin dashboard
 
 ## Backend Setup (Django)
@@ -21,7 +21,7 @@ The API will be available at http://127.0.0.1:8000/
 
 # How to Run
 1. Navigate to the frontend directory: cd frontend.
-2. Install dependencies: npm install (disregard if already installed everything).
+2. Install dependencies: npm install.
 3. Start the development server: npm run start/npm start.
 
 The frontend will be available at http://localhost:3000/
